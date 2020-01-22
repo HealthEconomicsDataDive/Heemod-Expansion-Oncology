@@ -1,7 +1,7 @@
 Aim: Handle more detailed application of drug costs (or other cost categories) for example fixed treatment durtions or a time on treatment curves in an oncology HTA model.
 
 Ideas:
-3 state oncology model (Progression Free, Progressed and dead)
+3 state oncology model (Progression Free, Progressed and dead) monthly cycle length
 Take data from a simple source or come with it ourselves?
 Apply a 2 year treatment duration
 Apply a parametric time on treatment curve (simple exponential which we can vary in the PSA?)
