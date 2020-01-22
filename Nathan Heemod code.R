@@ -5,7 +5,7 @@
 #
 # Nathan Green
 # Imperial College London
-
+# Adapted to Heemod-Expansion-Oncology project
 
 library(heemod)
 
